@@ -1,7 +1,3 @@
-# Sistema-Bancario
-Claro, vou criar um exemplo básico de um sistema bancário em C#. Aqui está um README que descreve a estrutura do sistema:
-
----
 
 # Sistema Bancário em C#
 
